@@ -1,0 +1,13 @@
+.card .card-subtitle {
+    font-weight: 250;
+    color: #8898aa;
+}
+
+
+.image-gallery-content .image-gallery-slide .image-gallery-image {
+    height: 250px;
+}
+
+.image-gallery-thumbnail .image-gallery-thumbnail-image {
+    height: 75px;
+}
